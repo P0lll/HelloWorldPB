@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let cornerRadius: CGFloat = 55
+    let cornerRadius: CGFloat = 50
     let numberOfAlpha = 0.3
     let standartAlpha: CGFloat = 1
     
